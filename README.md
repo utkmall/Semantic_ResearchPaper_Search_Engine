@@ -101,6 +101,4 @@ Returns top 10 relevant research papers based on semantic similarity.
 
 ---
 
-## 📄 License
 
-This project is for educational and research purposes.
